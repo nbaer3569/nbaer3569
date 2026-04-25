@@ -20,6 +20,18 @@ I believe that Artificial Intelligence should be developed and used responsibly.
 
 > *"The goal of AI should be to augment human capabilities, not replace human judgment."*
 
+## 🚀 Projects
+
+### Project Stanley
+
+A personal project exploring the intersection of Human-AI Interaction and everyday technology. Project Stanley focuses on building tools and experiences that make AI more approachable, useful, and trustworthy for everyone.
+
+| Area | Details |
+| ---- | ------- |
+| 🎯 **Goal** | Make AI interactions more natural and human-centered |
+| 🛠️ **Focus** | Human-AI Interaction, Responsible AI, Accessibility |
+| 📅 **Status** | In Progress |
+
 <!---
 nbaer3569/nbaer3569 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
